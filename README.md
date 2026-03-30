@@ -47,8 +47,9 @@ Plateforme d'IA conçue pour challenger vos arguments et renforcer votre pensée
 
 ## Contact
 
-- Site : [stariax.fr](https://stariax.fr)
+- Site : [stariax-showcase.link](https://stariax-showcase.vercel.app/)
 - GitHub : [github.com/Morgan-Reichert](https://github.com/Morgan-Reichert)
+- Linkedin : [Morgan Reichert](https://www.linkedin.com/in/morgan-reichert-tech/)
 
 ---
 
