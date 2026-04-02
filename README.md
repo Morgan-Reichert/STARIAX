@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Stariax Belgium" width="300"/>
+</p>
+
 # Stariax Belgium
 
 > Groupe technologique basé à Bruxelles — Applications innovantes en IA, santé mentale et social
