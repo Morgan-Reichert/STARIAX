@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://stariax-landing-page.vercel.app"><img src="https://img.shields.io/badge/Site%20Vitrine-Live-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://stariax-showcase.vercel.app"><img src="https://img.shields.io/badge/Site%20Vitrine-Live-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/Morgan-Reichert"><img src="https://img.shields.io/badge/GitHub-Morgan--Reichert-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/morgan-reichert-tech/"><img src="https://img.shields.io/badge/LinkedIn-Morgan%20Reichert-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <img src="https://img.shields.io/badge/Bruxelles-Belgique-ED2939?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -112,7 +112,7 @@ Site de présentation de Stariax Belgium et de ses projets. Interface minimalist
   <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" />
 </p>
 
-[→ Voir le repo](https://github.com/Morgan-Reichert/stariax-showcase) · [→ Site live](https://stariax-landing-page.vercel.app)
+[→ Voir le repo](https://github.com/Morgan-Reichert/stariax-showcase) · [→ Site live](https://stariax-showcase.vercel.app)
 
 ---
 
@@ -133,7 +133,7 @@ Site de présentation de Stariax Belgium et de ses projets. Interface minimalist
 
 | | |
 |--|--|
-| 🌐 **Site** | [stariax-landing-page.vercel.app](https://stariax-landing-page.vercel.app) |
+| 🌐 **Site** | [stariax-landing-page.vercel.app](https://stariax-showcase.vercel.app) |
 | 💼 **LinkedIn** | [Morgan Reichert](https://www.linkedin.com/in/morgan-reichert-tech/) |
 | 🐙 **GitHub** | [github.com/Morgan-Reichert](https://github.com/Morgan-Reichert) |
 | 📍 **Localisation** | Bruxelles, Belgique |
