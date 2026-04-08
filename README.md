@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://stariax-showcase.vercel.app"><img src="https://img.shields.io/badge/Site%20Vitrine-Live-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://stariax-showcase.vercel.app"><img src="https://img.shields.io/badge/Site%20Vitrine-Live-5D7BFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/Morgan-Reichert"><img src="https://img.shields.io/badge/GitHub-Morgan--Reichert-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/morgan-reichert-tech/"><img src="https://img.shields.io/badge/LinkedIn-Morgan%20Reichert-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <img src="https://img.shields.io/badge/Bruxelles-Belgique-ED2939?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -22,6 +22,51 @@
 ---
 
 ## Projets
+
+### ⚔️ Challenger IA — Site Landing
+**Plateforme IA de débat — brisez vos chambres d'écho**
+
+Site landing de Challenger IA avec widget chatbot intégré (MiniChallenger). L'IA adopte 3 personas (Architecte Logique, Fact-Checker, Opposant Idéologique) avec 3 niveaux de friction pour challenger votre pensée critique.
+
+<p>
+  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS%204-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" />
+</p>
+
+[→ Voir le repo](https://github.com/Morgan-Reichert/challenger-ia) · [→ Demo live](https://challenger-ia-nine.vercel.app)
+
+---
+
+### 🤖 Challenger IA — Chatbot
+**Interface chatbot complète — Débats · Interviews · Pensée critique**
+
+Application standalone full-page avec authentification, historique persistant et abonnement premium. Débattez face à 30+ personnalités historiques et publiques (Macron, Napoleon, Marx, Jobs, Thunberg...), entraînez-vous à l'oral, ou challengez vos certitudes avec les 3 personas classiques.
+
+<p>
+  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/v1.1.0-5D7BFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" />
+</p>
+
+**Fonctionnalités clés :**
+- 3 personas IA (Architecte, Fact-Checker, Opposant) × 3 niveaux de friction
+- Mode Débat : 30+ personnalités historiques, politiques et tech avec contexte Wikipedia dynamique
+- Mode Interview : Podcast, Entretien d'embauche, Oral académique, Pitch, Présentation
+- Auth Firebase (Google + email/password), historique Firestore, export PDF
+- Plan Free (20 msg/jour) + Premium illimité via Stripe
+
+[→ Voir le repo](https://github.com/Morgan-Reichert/challenger-ia-chatbot)
+
+---
 
 ### 🧠 MindScope
 **Suivi de santé mentale — 100% local, zéro données transmises**
@@ -74,41 +119,18 @@ NightWatch accompagne les soirées entre amis : suivi du BAC en temps réel, sca
 
 ---
 
-### ⚔️ Challenger IA
-**Plateforme IA de débat — brisez vos chambres d'écho**
-
-Challenger IA confronte vos arguments avec rigueur. L'IA adopte différentes personas (Architecte, Fact-checker, Avocat du Diable) et niveaux d'intensité pour challenger votre pensée critique. Ne soyez plus jamais enfermé dans vos certitudes.
-
-<p>
-  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS%204-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Bient%C3%B4t-f59e0b?style=flat-square" />
-</p>
-
-**Fonctionnalités clés :**
-- 3 personas IA (Architecte, Fact-checker, Avocat du Diable)
-- 3 niveaux d'intensité (Doux, Moyen, Extrême)
-- Manifeste audio & vidéo de présentation
-- Liste d'attente beta
-
-[→ Voir le repo](https://github.com/Morgan-Reichert/challenger-ia) · [→ Demo live](https://challenger-ia-nine.vercel.app)
-
----
-
 ### 🌐 Stariax Showcase
 **Site vitrine officiel du groupe**
 
-Site de présentation de Stariax Belgium et de ses projets. Interface minimaliste, animations fluides, design system cohérent avec la charte graphique du groupe.
+Site de présentation de Stariax Belgium et de ses projets. Interface moderne, animations fluides, design system cohérent, internationalisation (i18n), tests Playwright & Vitest.
 
 <p>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite%205-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS%203-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" />
 </p>
 
@@ -120,11 +142,12 @@ Site de présentation de Stariax Belgium et de ses projets. Interface minimalist
 
 | Domaine | Technologies |
 |---------|-------------|
-| **Frontend** | React 18/19, Next.js 14, Vite, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion |
+| **Frontend** | React 18/19, Next.js 14, Vite 5/6, TypeScript 5, Tailwind CSS 3/4, shadcn/ui, Framer Motion |
 | **Mobile** | Swift 5.9, iOS 17, PWA |
-| **IA / LLM** | Mistral AI, WebLLM (local), Gemini API |
-| **Backend / BDD** | Supabase, PostgreSQL, PLpgSQL |
+| **IA / LLM** | Google Gemini API, Mistral AI (Pixtral), WebLLM (local) |
+| **Auth & BDD** | Firebase Auth + Firestore, Supabase (PostgreSQL) |
 | **Paiement** | Stripe |
+| **Tests** | Vitest, Playwright |
 | **Déploiement** | Vercel |
 
 ---
@@ -133,7 +156,7 @@ Site de présentation de Stariax Belgium et de ses projets. Interface minimalist
 
 | | |
 |--|--|
-| 🌐 **Site** | [stariax-landing-page.vercel.app](https://stariax-showcase.vercel.app) |
+| 🌐 **Site** | [stariax-showcase.vercel.app](https://stariax-showcase.vercel.app) |
 | 💼 **LinkedIn** | [Morgan Reichert](https://www.linkedin.com/in/morgan-reichert-tech/) |
 | 🐙 **GitHub** | [github.com/Morgan-Reichert](https://github.com/Morgan-Reichert) |
 | 📍 **Localisation** | Bruxelles, Belgique |
